@@ -1,0 +1,20 @@
+.col1 {
+  width: 25%;
+  float: left;
+  padding-left: 20px;
+  margin: 25px;
+}
+
+.col1 p {
+  text-align: justify;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.heading {
+  text-align: center;
+}
