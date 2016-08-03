@@ -1,7 +1,7 @@
 .col1 {
   width: 25%;
   float: left;
-  padding-left: 20px;
+  padding: 20px;
   margin: 25px;
 }
 
@@ -17,4 +17,16 @@ img {
 
 .heading {
   text-align: center;
+}
+
+#first {
+  background-color: #FF7F50;
+}
+
+#second {
+  background-color: #00FFFF;
+}
+
+#third {
+  background-color: #F6546A;
 }
